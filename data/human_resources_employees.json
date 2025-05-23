@@ -1,0 +1,112 @@
+[
+  {
+    "employee_id": "HR-1001",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "phone": "+1-202-555-0143",
+    "email": "alice.smith@example.com",
+    "department": "Engineering",
+    "hire_date": "2020-07-15",
+    "manager_name": "Bob Johnson",
+    "salary": 90000
+  },
+  {
+    "employee_id": "HR-1002",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "phone": "+1-303-555-0198",
+    "email": "bob.johnson@example.com",
+    "department": "Sales",
+    "hire_date": "2019-03-22",
+    "manager_name": "Charlie Lee",
+    "salary": 85000
+  },
+  {
+    "employee_id": "HR-1003",
+    "first_name": "Charlie",
+    "last_name": "Lee",
+    "phone": "+1-404-555-0112",
+    "email": "charlie.lee@example.com",
+    "department": "Marketing",
+    "hire_date": "2021-11-05",
+    "manager_name": "Diana Prince",
+    "salary": 78000
+  },
+  {
+    "employee_id": "HR-1004",
+    "first_name": "Diana",
+    "last_name": "Prince",
+    "phone": "+1-505-555-0167",
+    "email": "diana.prince@example.com",
+    "department": "Finance",
+    "hire_date": "2018-01-30",
+    "manager_name": "Evan Miller",
+    "salary": 95000
+  },
+  {
+    "employee_id": "HR-1005",
+    "first_name": "Evan",
+    "last_name": "Miller",
+    "phone": "+1-606-555-0134",
+    "email": "evan.miller@example.com",
+    "department": "Product",
+    "hire_date": "2022-05-18",
+    "manager_name": "Fiona Chen",
+    "salary": 88000
+  },
+  {
+    "employee_id": "HR-1006",
+    "first_name": "Karen",
+    "last_name": "White",
+    "phone": "+1-707-555-0170",
+    "email": "karen.white@example.com",
+    "department": "HR",
+    "hire_date": "2017-09-12",
+    "manager_name": "George Brown",
+    "salary": 76000
+  },
+  {
+    "employee_id": "HR-1007",
+    "first_name": "Liam",
+    "last_name": "Scott",
+    "phone": "+1-808-555-0141",
+    "email": "liam.scott@example.com",
+    "department": "Support",
+    "hire_date": "2023-02-27",
+    "manager_name": "Hannah Davis",
+    "salary": 72000
+  },
+  {
+    "employee_id": "HR-1008",
+    "first_name": "Monica",
+    "last_name": "Bell",
+    "phone": "+1-909-555-0185",
+    "email": "monica.bell@example.com",
+    "department": "Design",
+    "hire_date": "2020-12-10",
+    "manager_name": "Ian Wright",
+    "salary": 83000
+  },
+  {
+    "employee_id": "HR-1009",
+    "first_name": "Noah",
+    "last_name": "Clark",
+    "phone": "+1-101-555-0154",
+    "email": "noah.clark@example.com",
+    "department": "Legal",
+    "hire_date": "2016-04-03",
+    "manager_name": "Julia Roberts",
+    "salary": 98000
+  },
+  {
+    "employee_id": "HR-1010",
+    "first_name": "Olivia",
+    "last_name": "Turner",
+    "phone": "+1-212-555-0137",
+    "email": "olivia.turner@example.com",
+    "department": "Operations",
+    "hire_date": "2021-08-21",
+    "manager_name": "Karen White",
+    "salary": 80000
+  }
+]

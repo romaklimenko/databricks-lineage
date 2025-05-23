@@ -1,0 +1,102 @@
+[
+  {
+    "ContactID": 1,
+    "FirstName": "Alice",
+    "LastName": "Smith",
+    "PhoneNumber": "+1-202-555-0143",
+    "Email": "alice.smith@example.com",
+    "CompanyName": "Acme Corp",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "jdoe"
+  },
+  {
+    "ContactID": 2,
+    "FirstName": "Bob",
+    "LastName": "Johnson",
+    "PhoneNumber": "+1-303-555-0198",
+    "Email": "bob.johnson@example.com",
+    "CompanyName": "Beta LLC",
+    "PreferredContactMethod": "Phone",
+    "D365Owner": "asmith"
+  },
+  {
+    "ContactID": 3,
+    "FirstName": "Charlie",
+    "LastName": "Lee",
+    "PhoneNumber": "+1-404-555-0112",
+    "Email": "charlie.lee@example.com",
+    "CompanyName": "Gamma Inc",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "mjones"
+  },
+  {
+    "ContactID": 4,
+    "FirstName": "Diana",
+    "LastName": "Prince",
+    "PhoneNumber": "+1-505-555-0167",
+    "Email": "diana.prince@example.com",
+    "CompanyName": "Delta Co",
+    "PreferredContactMethod": "Phone",
+    "D365Owner": "rgarcia"
+  },
+  {
+    "ContactID": 5,
+    "FirstName": "Evan",
+    "LastName": "Miller",
+    "PhoneNumber": "+1-606-555-0134",
+    "Email": "evan.miller@example.com",
+    "CompanyName": "Epsilon Ltd",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "bnguyen"
+  },
+  {
+    "ContactID": 6,
+    "FirstName": "Fiona",
+    "LastName": "Chen",
+    "PhoneNumber": "+1-707-555-0175",
+    "Email": "fiona.chen@example.com",
+    "CompanyName": "Zeta Partners",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "kpatel"
+  },
+  {
+    "ContactID": 7,
+    "FirstName": "George",
+    "LastName": "Brown",
+    "PhoneNumber": "+1-808-555-0146",
+    "Email": "george.brown@example.com",
+    "CompanyName": "Eta Solutions",
+    "PreferredContactMethod": "Phone",
+    "D365Owner": "lsanchez"
+  },
+  {
+    "ContactID": 8,
+    "FirstName": "Hannah",
+    "LastName": "Davis",
+    "PhoneNumber": "+1-909-555-0182",
+    "Email": "hannah.davis@example.com",
+    "CompanyName": "Theta Enterprises",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "tnguyen"
+  },
+  {
+    "ContactID": 9,
+    "FirstName": "Ian",
+    "LastName": "Wright",
+    "PhoneNumber": "+1-101-555-0151",
+    "Email": "ian.wright@example.com",
+    "CompanyName": "Iota Tech",
+    "PreferredContactMethod": "Phone",
+    "D365Owner": "pfoster"
+  },
+  {
+    "ContactID": 10,
+    "FirstName": "Julia",
+    "LastName": "Roberts",
+    "PhoneNumber": "+1-212-555-0129",
+    "Email": "julia.roberts@example.com",
+    "CompanyName": "Kappa Industries",
+    "PreferredContactMethod": "Email",
+    "D365Owner": "mwatson"
+  }
+]

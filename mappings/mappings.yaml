@@ -1,0 +1,39 @@
+# mappings:
+#   - target: silver.table_name.column_name
+#     source:
+#       - bronze.table_name.column_name
+mappings:
+  - target: silver.contacts.first_name
+    source:
+      - bronze.d365_contacts.FirstName
+      - bronze.human_resources_employees.first_name
+      - bronze.salesforce_contacts.firstName
+  - target: silver.contacts.last_name
+    source:
+      - bronze.d365_contacts.LastName
+      - bronze.human_resources_employees.last_name
+      - bronze.salesforce_contacts.lastName
+  - target: silver.contacts.phone_number
+    source:
+      - bronze.d365_contacts.PhoneNumber
+      - bronze.human_resources_employees.phone
+      - bronze.salesforce_contacts.phone
+  - target: silver.contacts.email
+    source:
+      - bronze.d365_contacts.Email
+      - bronze.human_resources_employees.email
+      - bronze.salesforce_contacts.emailAddress
+  - ignored:
+      - bronze.d365_contacts.ContactID
+      - bronze.d365_contacts.CompanyName
+      - bronze.d365_contacts.PreferredContactMethod
+      - bronze.d365_contacts.D365Owner
+      - bronze.human_resources_employees.employee_id
+      - bronze.human_resources_employees.department
+      - bronze.human_resources_employees.hire_date
+      - bronze.human_resources_employees.manager_name
+      - bronze.human_resources_employees.salary
+      - bronze.salesforce_contacts.id
+      - bronze.salesforce_contacts.accountName
+      - bronze.salesforce_contacts.leadSource
+      - bronze.salesforce_contacts.salesStage

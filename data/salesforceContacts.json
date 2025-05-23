@@ -1,0 +1,102 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "phone": "+1-202-555-0143",
+    "emailAddress": "alice.smith@example.com",
+    "accountName": "Acme Corp",
+    "leadSource": "Web",
+    "salesStage": "Prospecting"
+  },
+  {
+    "id": "6bbd8301-fc21-4f2b-9f3b-1e6d7e8a1234",
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "phone": "+1-303-555-0198",
+    "emailAddress": "bob.johnson@example.com",
+    "accountName": "Beta LLC",
+    "leadSource": "Referral",
+    "salesStage": "Qualification"
+  },
+  {
+    "id": "a12f3b45-678c-4d9e-b8f0-2a3b4c5d6e7f",
+    "firstName": "Charlie",
+    "lastName": "Lee",
+    "phone": "+1-404-555-0112",
+    "emailAddress": "charlie.lee@example.com",
+    "accountName": "Gamma Inc",
+    "leadSource": "Trade Show",
+    "salesStage": "Needs Analysis"
+  },
+  {
+    "id": "b234c567-89de-4f0a-a123-4b5c6d7e8f90",
+    "firstName": "Diana",
+    "lastName": "Prince",
+    "phone": "+1-505-555-0167",
+    "emailAddress": "diana.prince@example.com",
+    "accountName": "Delta Co",
+    "leadSource": "Web",
+    "salesStage": "Proposal"
+  },
+  {
+    "id": "c345d678-90ef-4a1b-b234-5c6d7e8f9a01",
+    "firstName": "Evan",
+    "lastName": "Miller",
+    "phone": "+1-606-555-0134",
+    "emailAddress": "evan.miller@example.com",
+    "accountName": "Epsilon Ltd",
+    "leadSource": "Cold Call",
+    "salesStage": "Negotiation"
+  },
+  {
+    "id": "d456e789-01f0-4b2c-c345-6d7e8f9a0b12",
+    "firstName": "Fiona",
+    "lastName": "Chen",
+    "phone": "+1-707-555-0175",
+    "emailAddress": "fiona.chen@example.com",
+    "accountName": "Zeta Partners",
+    "leadSource": "Referral",
+    "salesStage": "Closed Won"
+  },
+  {
+    "id": "e567f890-12a3-4c3d-d456-7e8f9a0b1c23",
+    "firstName": "George",
+    "lastName": "Brown",
+    "phone": "+1-808-555-0146",
+    "emailAddress": "george.brown@example.com",
+    "accountName": "Eta Solutions",
+    "leadSource": "Web",
+    "salesStage": "Closed Lost"
+  },
+  {
+    "id": "f6780a1b-23b4-4d4e-e567-8f9a0b1c2d34",
+    "firstName": "Hannah",
+    "lastName": "Davis",
+    "phone": "+1-909-555-0182",
+    "emailAddress": "hannah.davis@example.com",
+    "accountName": "Theta Enterprises",
+    "leadSource": "Trade Show",
+    "salesStage": "Qualification"
+  },
+  {
+    "id": "0a89b2c3-34c5-4e5f-f678-9a0b1c2d3e45",
+    "firstName": "Ian",
+    "lastName": "Wright",
+    "phone": "+1-101-555-0151",
+    "emailAddress": "ian.wright@example.com",
+    "accountName": "Iota Tech",
+    "leadSource": "Web",
+    "salesStage": "Prospecting"
+  },
+  {
+    "id": "1b90c3d4-45d6-4f6a-0a89-b1c2d3e4f567",
+    "firstName": "Julia",
+    "lastName": "Roberts",
+    "phone": "+1-212-555-0129",
+    "emailAddress": "julia.roberts@example.com",
+    "accountName": "Kappa Industries",
+    "leadSource": "Cold Call",
+    "salesStage": "Proposal"
+  }
+]
